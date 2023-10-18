@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "451836975275",
+    "firebase_url": "https://projectechat-4df48-default-rtdb.firebaseio.com",
+    "project_id": "projectechat-4df48",
+    "storage_bucket": "projectechat-4df48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451836975275:android:278f29d54d4dbaa7687fee",
+        "android_client_info": {
+          "package_name": "org.RodriDev.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsIrjtfCJWFRqhbrfRSe4RS-oKjOMTraI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451836975275:android:b8240b33d1242b2c687fee",
+        "android_client_info": {
+          "package_name": "org.insbaixcamp.projectechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsIrjtfCJWFRqhbrfRSe4RS-oKjOMTraI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

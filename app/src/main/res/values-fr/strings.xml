@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username_hint">Nom d\'utilisateur</string>
+    <string name="join_button_text">Rejoindre</string>
+    <string name="message_hint">Écrivez votre message</string>
+    <string name="send_button_text">Envoyer</string>
+</resources>
